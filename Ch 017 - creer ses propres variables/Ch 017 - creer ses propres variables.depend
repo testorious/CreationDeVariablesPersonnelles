@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1442999569 source:c:\users\ordi\documents\c project\ch 017 - creer ses propres variables\structures.c
+	"structures.h"
+
+1442999939 c:\users\ordi\documents\c project\ch 017 - creer ses propres variables\structures.h
+
+1443001398 source:c:\users\ordi\documents\c project\ch 017 - creer ses propres variables\main.c
+	<stdio.h>
+	<stdlib.h>
+	"structures.h"
+
